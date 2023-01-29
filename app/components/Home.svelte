@@ -11,7 +11,7 @@
 </page>
 
 <script lang="ts">
-    let message: string = "Blank Svelte Native App"
+    let message: string = "Blank Svelte Native App #"
 </script>
 
 <style>
